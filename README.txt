@@ -61,4 +61,5 @@ Future Enhancements
 - Data Logging: Implement data logging to track environmental conditions over time.
 - Mobile Integration: Develop a mobile app to remotely monitor and control the system.
 
+*Attached diagram is only for visualisation and may not be entirely accurate depending on specific module models*  
 
