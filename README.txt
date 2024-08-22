@@ -30,7 +30,7 @@ The Arduino code integrates multiple sensors and the OLED display, with a simple
 How to Use
 
 1. Clone the Repository:
-   git clone https://github.com/yourusername/Automated-Plant-Monitoring-System.git
+   git clone https://github.com/an-appropriate-username/Automated-Plant-Monitoring-System.git
    cd Automated-Plant-Monitoring-System
 
 2. Upload the Code:
